@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+
+In case I fear that my hard drive crashes, or if I have several computers that I use for my developments
