@@ -3,3 +3,20 @@ It creates a .git directory and it is ready to accept commits
 
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 It allows to group several files in the same commit operation.
+
+How can you use the staging area to make sure you have one commit per logical change?
+It allows to have several files in the same commit in case the logical change involves many files.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+When creating some parallel applications, of some trials before merging them into the master branch.
+
+How do the diagrams help you visualize the branch structure?
+It shows wich versions are reachable from where.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+Merging two branches includes all the updates made in each branch in one single file.
+The diagram shows diverging and merging branches.
+
+What are the pros and cons of Git's automatic merging vs. always doing merges manually?
+Manually is time consuming, and it is frequent that merge can be done automatically.
+
